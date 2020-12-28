@@ -1,0 +1,475 @@
+{
+	"角色up": [
+		{
+			"Name": "阿贝多",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "菲谢尔",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "砂糖",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "班尼特",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		}
+	],
+	"武器up": [
+		{
+			"Name": "天空之卷",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "斫峰之刃",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "西风大剑",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "西风剑",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "绝弦",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "祭礼残章",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "西风长枪",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		}
+	],
+	"常驻": [
+		{
+			"Name": "刻晴",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "莫娜",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "七七",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "迪卢克",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "琴",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "香菱",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "芭芭拉",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "行秋",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "诺艾尔",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "凝光",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "北斗",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "迪奥娜",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "辛焱",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "重云",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "雷泽",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "安柏",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "凯亚",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "丽莎",
+			"Level": "4",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "阿莫斯之弓",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "和璞鸢",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "天空之脊",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "天空之傲",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "天空之刃",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "风鹰剑",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "四风原典",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "狼的末路",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "天空之翼",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "无工之剑",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "流浪乐章",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "祭礼弓",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "祭礼大剑",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "祭礼剑",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "弓藏",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "昭心",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "笛剑",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "雨裁",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "西风猎弓",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "西风秘典",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "匣里龙吟",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "钟剑",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "匣里灭辰",
+			"Level": "4",
+			"Value": 20,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "弹弓",
+			"Level": "3",
+			"Value": 10,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "神射手之誓",
+			"Level": "3",
+			"Value": 10,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "鸦羽弓",
+			"Level": "3",
+			"Value": 10,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "翡玉法球",
+			"Level": "3",
+			"Value": 10,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "讨龙英杰谭",
+			"Level": "3",
+			"Value": 10,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "魔导绪论",
+			"Level": "3",
+			"Value": 10,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "黑缨枪",
+			"Level": "3",
+			"Value": 10,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "以理服人",
+			"Level": "3",
+			"Value": 10,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "沐浴龙血的剑",
+			"Level": "3",
+			"Value": 10,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "铁影阔剑",
+			"Level": "3",
+			"Value": 10,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "飞天御剑",
+			"Level": "3",
+			"Value": 10,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "黎明神剑",
+			"Level": "3",
+			"Value": 10,
+			"Type": "weapon",
+			"Content": ""
+		},
+		{
+			"Name": "冷刃",
+			"Level": "3",
+			"Value": 10,
+			"Type": "weapon",
+			"Content": ""
+		}
+	],
+	"常驻概率": {
+		"5": 0.006,
+		"4": 0.051
+	},
+	"角色up概率": {
+		"5": 0.006,
+		"4": 0.051
+	},
+	"武器up概率": {
+		"5": 0.007,
+		"4": 0.06
+	}
+}

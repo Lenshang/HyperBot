@@ -1,0 +1,210 @@
+{
+	"活动": [
+		{
+			"Name": "歌姬卡片:霜糖",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "card",
+			"Content": ""
+		},
+		{
+			"Name": "歌姬卡片:拿破伦",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "card",
+			"Content": ""
+		},
+		{
+			"Name": "歌姬卡片:泉残方",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "card",
+			"Content": ""
+		},
+		{
+			"Name": "歌姬卡片:酱酱",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "card",
+			"Content": ""
+		},
+		{
+			"Name": "社团卡片:TsuBaKi",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "card",
+			"Content": ""
+		},
+		{
+			"Name": "卡片:画画的师傅",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "card",
+			"Content": ""
+		},
+		{
+			"Name": "曲师卡片:泽",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "card",
+			"Content": ""
+		},
+		{
+			"Name": "曲师卡片:绛舞乱丸",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "card",
+			"Content": ""
+		},
+		{
+			"Name": "曲师卡片:战场原妖精",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "card",
+			"Content": ""
+		},
+		{
+			"Name": "词作卡片:鬼千鹤",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "card",
+			"Content": ""
+		}
+	],
+	"常驻": [
+		{
+			"Name": "博丽灵梦",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "character",
+			"Content": "博丽神社的现任巫女"
+		},
+		{
+			"Name": "魔理沙",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "character",
+			"Content": "性格糟糕的魔法使"
+		},
+		{
+			"Name": "露米娅",
+			"Level": "3",
+			"Value": 1000,
+			"Type": "character",
+			"Content": "操纵黑暗的妖怪"
+		},
+		{
+			"Name": "大妖精",
+			"Level": "3",
+			"Value": 60,
+			"Type": "character",
+			"Content": ""
+		},
+		{
+			"Name": "琪露诺",
+			"Level": "3",
+			"Value": 60,
+			"Type": "character",
+			"Content": "一只冰之妖精，也是个笨蛋，和其他妖精一样天真，喜欢恶作剧"
+		},
+		{
+			"Name": "红美铃",
+			"Level": "4",
+			"Value": 1000,
+			"Type": "character",
+			"Content": "红魔馆看门的"
+		},
+		{
+			"Name": "小恶魔",
+			"Level": "3",
+			"Value": 60,
+			"Type": "character",
+			"Content": "红魔馆的一员，性格任性且喜欢恶作剧，不经过深思熟虑就展开行动"
+		},
+		{
+			"Name": "帕秋莉·诺蕾姬",
+			"Level": "4",
+			"Value": 1000,
+			"Type": "character",
+			"Content": "居住在红魔馆地下大图书馆中的魔女（魔法使），非常擅长魔法"
+		},
+		{
+			"Name": "十六夜咲夜",
+			"Level": "4",
+			"Value": 1000,
+			"Type": "character",
+			"Content": "红魔馆侍奉蕾米莉亚·斯卡蕾特的女仆长，拥有操纵时间的能力"
+		},
+		{
+			"Name": "蕾米莉亚·斯卡蕾特",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "character",
+			"Content": "居住在红魔馆的吸血鬼，并且她还是那里的主人，拥有操纵命运的能力，以及吸血鬼一族强大的身体能力"
+		},
+		{
+			"Name": "芙兰朵露·斯卡蕾特",
+			"Level": "5",
+			"Value": 10000,
+			"Type": "character",
+			"Content": "吸血鬼且是魔法少女，495岁左右，蕾米莉亚·斯卡蕾特的妹妹"
+		},
+		{
+			"Name": "一串团子",
+			"Level": "1",
+			"Value": 1,
+			"Type": "item",
+			"Content": "热腾腾的团子"
+		},
+		{
+			"Name": "一片树叶",
+			"Level": "1",
+			"Value": 1,
+			"Type": "item",
+			"Content": "只是一片树叶，也许可以当作书签"
+		},
+		{
+			"Name": "巫女吃剩的食物",
+			"Level": "1",
+			"Value": 1,
+			"Type": "item",
+			"Content": "还是当作垃圾丢掉好了"
+		},
+		{
+			"Name": "一根树枝",
+			"Level": "1",
+			"Value": 1,
+			"Type": "item",
+			"Content": "只是一根树枝，今后可能会产生不可思议的力量？"
+		},
+		{
+			"Name": "书籍:妖怪大全",
+			"Level": "1",
+			"Value": 1,
+			"Type": "item",
+			"Content": "记载着世界上妖怪的百科全书"
+		},
+		{
+			"Name": "空白的纸",
+			"Level": "1",
+			"Value": 1,
+			"Type": "item",
+			"Content": "只是一张白纸罢了，你以为是一张藏宝图吗？"
+		},
+		{
+			"Name": "扫帚",
+			"Level": "1",
+			"Value": 1,
+			"Type": "item",
+			"Content": "打扫垃圾应该很好用"
+		}
+	],
+	"常驻概率": {
+		"5": 0.01,
+		"4": 0.071
+	},
+	"活动概率": {
+		"5": 0.01,
+		"4": 0.071
+	}
+}

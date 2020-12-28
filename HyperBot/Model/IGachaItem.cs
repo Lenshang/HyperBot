@@ -1,0 +1,93 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HyperBot.Model
+{
+    public class IGachaItem
+    {
+        public string Name { get; set; }
+        public string Level { get; set; }
+        public string Type { get; set; }
+        public string Content { get; set; }
+        public int Value { get; set; }
+        public virtual string GetStar()
+        {
+            string r = "";
+            int level = Convert.ToInt32(this.Level);
+            for (int i = 0; i < level; i++)
+            {
+                r += "★";
+            }
+            return r;
+        }
+
+        public virtual string GetFullName()
+        {
+            string r = "[";
+            r += GetTypeCn(true);
+            r += "] ";
+            r += this.Name + " ";
+            r += this.GetStar();
+            return r;
+        }
+
+        public virtual string GetSingleName()
+        {
+            string r = "[";
+            r += this.Level + "星";
+            r += GetTypeCn();
+            r += "] ";
+            r += this.Name;
+            return r;
+        }
+        public virtual string GetTypeCn(bool highlight=false)
+        {
+            string r = "";
+            if (this.Type == "character")
+            {
+                if (highlight)
+                {
+                    r += "+";
+                    r += "角色";
+                    r += "+";
+                }
+                else
+                {
+                    r += "角色";
+                }
+                
+            }
+            else if (this.Type == "item")
+            {
+                r += "道具";
+            }
+            else if (this.Type == "card")
+            {
+                if (highlight)
+                {
+                    r += "+";
+                    r += "卡片";
+                    r += "+";
+                }
+                else
+                {
+                    r += "卡片";
+                }
+            }
+            else
+            {
+                r += "武器";
+            }
+            return r;
+        }
+    }
+
+    public class UserItem
+    {
+        public IGachaItem Item { get; set; }
+        public int Count { get; set; }
+    }
+}
