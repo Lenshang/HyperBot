@@ -1,0 +1,146 @@
+﻿{
+  "通常BOSS": [
+    {
+      "Name": "古岩龙蜥-火",
+      "Hp": 15000,
+      "Value": 10000,
+      "AliveHour": 3,
+      "Element": "火"
+    },
+    {
+      "Name": "古岩龙蜥-水",
+      "Hp": 15000,
+      "Value": 10000,
+      "AliveHour": 3,
+      "Element": "水"
+    },
+    {
+      "Name": "古岩龙蜥-冰",
+      "Hp": 15000,
+      "Value": 10000,
+      "AliveHour": 3,
+      "Element": "冰"
+    },
+    {
+      "Name": "古岩龙蜥-雷",
+      "Hp": 15000,
+      "Value": 10000,
+      "AliveHour": 3,
+      "Element": "雷"
+    },
+    {
+      "Name": "爆炎树",
+      "Hp": 13000,
+      "Value": 8000,
+      "AliveHour": 3,
+      "Element": "火"
+    },
+    {
+      "Name": "纯水精灵",
+      "Hp": 20000,
+      "Value": 8000,
+      "AliveHour": 3,
+      "Element": "水"
+    },
+    {
+      "Name": "急冻树",
+      "Hp": 23000,
+      "Value": 8000,
+      "AliveHour": 3,
+      "Element": "冰"
+    },
+    {
+      "Name": "无相之岩",
+      "Hp": 20000,
+      "Value": 8000,
+      "AliveHour": 3,
+      "Element": "岩"
+    },
+    {
+      "Name": "无相之风",
+      "Hp": 15000,
+      "Value": 8000,
+      "AliveHour": 3,
+      "Element": "风"
+    },
+    {
+      "Name": "无相之雷",
+      "Hp": 10000,
+      "Value": 8000,
+      "AliveHour": 3,
+      "Element": "雷"
+    },
+    {
+      "Name": "雷萤术士",
+      "Hp": 6500,
+      "Value": 3000,
+      "AliveHour": 3,
+      "Element": "雷"
+    },
+    {
+      "Name": "冰萤术士",
+      "Hp": 7000,
+      "Value": 3500,
+      "AliveHour": 3,
+      "Element": "雷"
+    },
+    {
+      "Name": "债务处理人",
+      "Hp": 7000,
+      "Value": 3500,
+      "AliveHour": 3,
+      "Element": "火"
+    },
+    {
+      "Name": "普通的丘丘人",
+      "Hp": 1000,
+      "Value": 500,
+      "AliveHour": 1,
+      "Element": "正常"
+    },
+    {
+      "Name": "大伟丘丘人",
+      "Hp": 100000,
+      "Value": 60000,
+      "AliveHour": 1,
+      "Element": "正常"
+    },
+    {
+      "Name": "奔狼的领主-安德留斯",
+      "Hp": 100000,
+      "Value": 80000,
+      "AliveHour": 3,
+      "Element": "冰"
+    },
+    {
+      "Name": "风魔龙-特瓦林",
+      "Hp": 150000,
+      "Value": 150000,
+      "AliveHour": 3,
+      "Element": "风"
+    },
+    {
+      "Name": "魔偶剑鬼",
+      "Hp": 100000,
+      "Value": 80000,
+      "AliveHour": 3,
+      "Element": "风"
+    }
+  ],
+  "跨服BOSS": [
+    {
+      "Name": "奔狼的领主-安德留斯",
+      "Hp": 100000,
+      "Value": 10000,
+      "AliveHour": 3,
+      "Element": "冰"
+    },
+    {
+      "Name": "风魔龙-特瓦林",
+      "Hp": 150000,
+      "Value": 15000,
+      "AliveHour": 3,
+      "Element": "冰"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+dotnet publish --configuration Release -r win7-x64
